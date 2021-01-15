@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Jorge
+### Hi there 👋🏽, my name is Jorge
 - 🕌 I considere me as a Javascript evangelist
 - 🎓 Bachelor of System Engineering
 - 🔭 I’m currently working on freelance
