@@ -5,4 +5,3 @@
 - 🌱I’m currently learning clean code, SOLID principles, software architecture & clean architecture
 - 👯 I’m looking to collaborate on startup
 - 🤔 I’m looking for help with other developers
-- 💬 Ask me about anything
