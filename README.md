@@ -1,4 +1,4 @@
-### Hi there 👋🏽, my name is Jorge
+### Hi there , my name is Jorge
 - 🥉 I considere me as a Javascript developer
 - 🖥 I’m currently working on freelance
 - 📚 I’m currently learning clean code, SOLID principles, software architecture & clean architecture
