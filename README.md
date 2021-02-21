@@ -10,6 +10,7 @@
 <br />
 <br />
 
+Hi, I'm George LLanque, a passionate self-taught fullstack web developer from Bolivia.
 
 - 🥉 I considere me as a Javascript developer
 - 🖥 I’m currently working on freelance
