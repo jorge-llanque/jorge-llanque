@@ -1,4 +1,4 @@
-### Hi there, I'm [George!](https://jorge-llanque.github.io) 👋
+### Hi there, I'm [George!](https://github.com/jorge-llanque) 👋
 
 <a href="https://www.linkedin.com/in/jorgellanque/">
   <img align="left" alt="Jorge LLanque | LinkedIn" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2506794-2100694.png" />
