@@ -1,4 +1,4 @@
-### Hi there, I'm [George!](https://github.com/jorge-llanque) 👋
+### Hi there, I'm [Jorge!](https://github.com/jorge-llanque) 👋
 
 <a href="https://www.linkedin.com/in/jorgellanque/">
   <img align="left" alt="Jorge LLanque | LinkedIn" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2506794-2100694.png" />
@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm George LLanque, a passionate self-taught fullstack web developer from Bolivia.
+Hi, I'm Jorge LLanque, a passionate self-taught fullstack web developer from Bolivia.
 
 - 🥉 I considere me as a Javascript developer
 - 🖥 I’m currently working on freelance
