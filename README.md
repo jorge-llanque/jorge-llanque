@@ -17,6 +17,3 @@ Hi, I'm Jorge LLanque, a passionate self-taught fullstack web developer from Bol
 - 📚 I’m currently learning clean code, SOLID principles, software architecture & clean architecture
 - 🏆 I’m looking to collaborate on startup
 - 🕶 I like to help tech communities.
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-llanque&show_icons=true&theme=radical)
